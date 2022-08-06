@@ -1,0 +1,24 @@
+body{
+    font-size: 30px;
+    color: #3D3D4F;
+}
+
+p{
+    color: white;
+}
+
+.preview {
+    background-color: #FACB00;
+    margin-right: 70%;
+}
+
+.preview2{
+    font-weight: bold;
+    background-color: #49B689;
+    margin-right: 60%;
+    border-radius: 5px;
+}
+
+.previewsecondLevel{
+    color: #514FFE;  
+}
